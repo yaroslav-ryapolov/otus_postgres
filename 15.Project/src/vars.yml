@@ -1,0 +1,5 @@
+---
+ansible_user: yc-user
+db_user: app1user
+db_password: app1user
+db_name: app1
